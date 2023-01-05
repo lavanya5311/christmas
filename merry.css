@@ -1,0 +1,38 @@
+.bgimg{
+	background-image: url(https://t4.ftcdn.net/jpg/04/63/13/31/360_F_463133187_htJWxTtUrMt7Drvcghb4SbqHZ3RxlW09.jpg);
+	height:30vh;
+	background-size: cover;
+}
+.head{
+	color: white;
+	padding: 120px;
+	font-weight: bold;
+	font-size: 30px;
+}
+.size{
+	background-color: pink;
+	height: 1600px;
+}
+.masimage{
+	height: 80px;
+	width: 80px;
+}
+.mascard{
+	background-color: white;
+	width: 150px;
+border-radius: 15px;
+padding: 5px;
+height: 150px;
+text-align: center;
+margin:20px;
+}
+.headfirst{
+	font-size:15px; 
+	font-weight:'Roboto';
+	font-family:normal;
+}
+.paraline{
+	font-weight: bold;
+}
+
+
